@@ -1,5 +1,5 @@
 # NEWS APPLICTION
-Created a new application using NEWS API, recycler view, retrofit library, Picasso and java(Frontend and backend)
+Created a news application using NEWS API, recycler view, retrofit library, Picasso and java(Frontend and backend)
 
 # Note
 This project is still under development and I will update it with new features
